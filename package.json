@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-simple-log",
+  "version": "1.0.0",
+  "description": "nodejs simple logger module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehsanagh/nodejs-simple-log.git"
+  },
+  "keywords": [
+    "nodejs",
+    "log",
+    "logger",
+    "colored",
+    "log"
+  ],
+  "author": "Ehsan Aghaei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ehsanagh/nodejs-simple-log/issues"
+  },
+  "homepage": "https://github.com/ehsanagh/nodejs-simple-log#readme"
+}
